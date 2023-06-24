@@ -1,0 +1,186 @@
+*{
+    
+    text-decoration: none;
+}
+
+header{
+    background: rgba(255, 144, 14, 0.10);
+    padding: 20px 200px;
+    margin-bottom: 150px;
+}
+header ul{
+    display: flex;
+}
+header ul li{
+    text-decoration: none;
+    list-style: none;
+    margin-left: 10px;
+    position: ;
+
+}
+.headtext{
+    text-align: center;
+    margin-top: 110px;
+    margin-bottom: 50px;
+}
+.headtext button{
+    border-radius: 8px;
+    background: #FF900E;
+    padding: 21px 24px;
+    color: white;
+    font-weight: bolder;
+    border: 0;
+}
+
+.headerbanner{
+    box-sizing: border-box;
+}
+.headerbanner img{
+    width: 100%;
+}
+
+
+/* ********************************************************************************** */
+
+.paddingforall{
+    padding-left: 200px;
+    padding-right: 200px;
+}
+.ourfeatures{
+    margin-top: 80px;
+    /* display: flex; */
+    display: inline;
+    box-sizing: border-box;
+}
+
+.feature-1{
+    /* margin-right: 50px; */
+    color: #727272;
+    font-size: 45px;
+    font-family: Work Sans;
+    font-weight: 500;
+    float: left;
+    width: 50%;
+    box-sizing: border-box;
+    
+    
+}
+
+.feature-iteam1{
+    display: flex;
+    box-sizing: border-box;
+}
+.feature-1 .team-1{
+    margin-right:10px ;
+    box-sizing: border-box;
+}
+/* hgh***************************** */
+.feature-iteam2 {
+    display: flex;
+    box-sizing: border-box;
+}
+.feature-iteam2 .team-3{
+    margin-right:10px ;
+    box-sizing: border-box;
+}
+
+
+
+.feature-2{
+    float: right;
+   
+}
+.feature-2 h1{
+    margin-top: 30%;
+}
+.feature-2 button{
+    border-radius: 8px;
+    background: #FF900E;
+    border: 0;
+    color: #FFF;
+    text-align: center;
+    font-size: 20px;
+    font-family: Work Sans;
+    font-weight: 600;
+    padding: 20px 25px;
+}
+
+
+/* *********************************** */
+
+.features-enjoy{
+    margin-top: 130px;
+    box-sizing: border-box;
+    font-size: 12px;
+}
+.features-enjoy-item{
+    float: left;
+    width: 50%;
+    box-sizing: border-box;
+    
+}
+
+.enjoy-itram1{
+    padding: 30px;
+    margin-top: 20px;
+    font-size: 14px;
+    margin-bottom: 20px;
+    border-radius: 8px;
+    background: #FFF;
+    box-shadow: 0px 4px 30px 0px rgba(0, 0, 0, 0.06);
+}
+
+
+.features-enjoy-clint{
+    float: right;
+    padding-left: 50px;
+    width: 50%;
+    box-sizing: border-box;
+}
+.experience{
+    padding: 12px 5px;
+    margin-top: -100px;
+    margin-left: 45%;
+    margin-bottom: 130px;
+    border: 0;
+    border-radius: 8px;
+    color: #FFF;
+    background: #FF900E;
+}
+/* ******************************************************************** */
+
+.acivement-head{
+    display: flex;
+    box-sizing: border-box;
+    
+}
+
+.acivement{
+    padding: 45px 36px 59px 35px;
+    margin: 35px;
+    line-height: 0;
+    justify-content: space-around;
+    text-align: center;
+    border-radius: 8px;
+    border: 1px solid #FF900E;
+}
+/* ******************************************************* */
+
+.sponspors{
+    margin-top: 150px;
+}
+.sponspors-list img{
+    justify-content: space-around;
+    margin-right: 40px;
+    margin-top: 100px;
+}
+/* ******************************************* */
+.footer{
+    margin-top: 150px;
+    margin-bottom: 150px;
+    text-align: center;
+    padding-top: 38px;
+    padding-bottom: 38px;
+    border-radius: 8px;
+    background: #FFF4E7;
+}
